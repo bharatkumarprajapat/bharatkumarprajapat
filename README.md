@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![BHARAT KUMAR PRAJAPAT](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif){:width="200px"}
+![BHARAT KUMAR PRAJAPAT](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif){:width="800px"}
