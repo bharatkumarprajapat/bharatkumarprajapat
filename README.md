@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![BHARAT KUMAR PRAJAPAT](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif){:width="200px"}
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="BHARAT KUMAR PRAJAPAT" width="200px" />
+</p>
