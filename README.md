@@ -1,7 +1,5 @@
 Hi 👋, I'm Bharat Kumar Prajapat
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="BHARAT KUMAR PRAJAPAT" width="600px" />
-</p>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatkumarprajapat&label=Profile%20views&color=0e75b6&style=flat" alt="bharatkumarprajapat" /> </p>
